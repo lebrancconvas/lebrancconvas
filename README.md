@@ -22,7 +22,7 @@ more Interested:
 Entertainment Interested: 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)
 - Game (JRPG, Fighting, Indie, etc.) 
-- Music (Game OST., Anisong, Rock / Metal, J-Pop, etc.)  
+- Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
 
 Social Media 
 - [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)

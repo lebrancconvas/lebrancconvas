@@ -20,9 +20,9 @@ more Interested:
 - Financial 
 
 Entertainment Interested: 
-- Anime / Manga 
+- Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)
 - Game (JRPG, Fighting, Indie, etc.) 
-- Music (Game OST. / Anisong / Rock-Metal / J-Pop) 
+- Music (Game OST., Anisong, Rock / Metal, J-Pop) 
 
 Social Media 
 - [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)

@@ -6,7 +6,7 @@ Interested in
 - Web Development 
 - Game Development 
 - Data Science 
-- UX Design 
+- User Experience Design 
 - Theoretical Computer Science 
 
 more Interested: 
@@ -16,5 +16,17 @@ more Interested:
 - Graphic Design
 - Video Editing
 - Sound Composing
-- Marketing & Financial 
+- Marketing 
+- Financial 
+
+Entertainment Interested: 
+- Anime / Manga 
+- Game (JRPG, Fighting, Indie, etc.) 
+- Music (Game OST. / Anisong / Rock-Metal / J-Pop) 
+
+Social Media 
+- [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)
+- [Twitter account for my game development projects.](https://twitter.com/HouseofScarleth)
+- [Twitch](https://www.twitch.tv/lebrancconvas/videos) 
+
 

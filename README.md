@@ -17,7 +17,8 @@ more Interested:
 - Video Editing (Final Cut Pro, Adobe Premiere Pro)
 - Sound Composing (Logic Pro, FL Studio) 
 - Marketing 
-- Financial + Economics 
+- Financial + Investment 
+- Economics 
 
 Entertainment Interested: 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)

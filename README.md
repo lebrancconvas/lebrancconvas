@@ -1,4 +1,4 @@
-# Hi, I'm Poom  
+# Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas)  
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience. 
 
@@ -28,5 +28,5 @@ Social Media
 - [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)
 - [Twitter account for my game development projects.](https://twitter.com/HouseofScarleth)
 - [Twitch](https://www.twitch.tv/lebrancconvas/videos) 
-
+- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks) 
 

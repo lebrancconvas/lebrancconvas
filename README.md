@@ -12,12 +12,12 @@ Interested in
 more Interested: 
 - Pixel Art (Aseprite, Piskel)
 - 3D Modeling (Blender, Autodesk Maya, ZBrushCoreMini)
-- Animation (Aseprite)
+- Animation (Aseprite, Blender) 
 - Graphic Design (Figma, Canva, Adobe Illustrator)
 - Video Editing (Final Cut Pro, Adobe Premiere Pro)
 - Sound Composing (Logic Pro, FL Studio) 
 - Marketing 
-- Financial + Investment 
+- Financial / Investment 
 - Economics 
 
 Entertainment Interested: 

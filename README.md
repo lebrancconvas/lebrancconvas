@@ -3,19 +3,19 @@ I'm studying in the major of Computer Science. But I'm still Self-Taught Develop
 because some topics I can't learn from College but from experience. 
 
 Interested in 
-- Web Development 
-- Game Development 
+- Web Development (VueJS, ReactJS, Typescript) 
+- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3)
 - Data Science 
 - User Experience Design 
 - Theoretical Computer Science 
 
 more Interested: 
-- Pixel Art 
-- 3D Modeling 
-- Animation
-- Graphic Design
-- Video Editing
-- Sound Composing
+- Pixel Art (Aseprite, Piskel)
+- 3D Modeling (Blender, Autodesk Maya, ZBrushCoreMini)
+- Animation (Aseprite)
+- Graphic Design (Figma, Canva, Adobe Illustrator)
+- Video Editing (Final Cut Pro, Adobe Premiere Pro)
+- Sound Composing (Logic Pro, FL Studio) 
 - Marketing 
 - Financial 
 

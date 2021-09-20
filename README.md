@@ -22,7 +22,7 @@ more Interested:
 
 Entertainment Interested: 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)
-- Game (JRPG, Adventure, Fighting, Strategy, Casual, Puzzle, Gacha, Indie, etc.)  
+- Game (JRPG, Adventure, Fighting, Strategy, Casual, Puzzle, Gacha, Visual Novel, Indie, etc.)   
 - Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
 
 Social Media 

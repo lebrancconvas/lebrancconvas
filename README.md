@@ -19,6 +19,7 @@ more Interested:
 - Marketing 
 - Financial / Investment 
 - Economics 
+- Mathematics (Especially in the topics with Computer Graphic and Game Development related.) 
 - Language (Japanese, Korean, French) 
 
 Entertainment Interested: 

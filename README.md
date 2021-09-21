@@ -4,6 +4,13 @@
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience. 
 
+Programming Language 
+- Python3
+- Javascript
+- Java
+- C++
+- Typescript  
+
 Interested in 
 - Web Development (VueJS, ReactJS, Typescript) 
 - Game Development (RPG Maker XP/MV/MZ, Unity, Construct3)
@@ -33,5 +40,5 @@ Social Media
 - [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)
 - [Twitter account for my game development projects.](https://twitter.com/HouseofScarleth)
 - [Twitch](https://www.twitch.tv/lebrancconvas/videos) 
-- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks)  
+- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks)   
 

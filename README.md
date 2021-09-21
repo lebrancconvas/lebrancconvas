@@ -37,8 +37,8 @@ Entertainment Interested:
 - Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
 
 Social Media 
-- [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)
-- [Twitter account for my game development projects.](https://twitter.com/HouseofScarleth)
+- [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
+- [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Twitch](https://www.twitch.tv/lebrancconvas/videos) 
-- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks)   
+- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks)    
 

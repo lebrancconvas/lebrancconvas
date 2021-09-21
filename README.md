@@ -1,4 +1,6 @@
-# Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas)  
+# Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas) 
+He / Him, From Thailand. 
+
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience. 
 

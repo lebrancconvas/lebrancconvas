@@ -12,7 +12,7 @@ Interested in
 more Interested: 
 - Pixel Art (Aseprite, Piskel)
 - 3D Modeling (Blender, Autodesk Maya, ZBrushCoreMini)
-- Animation (Aseprite, Blender) 
+- Animation (Aseprite, Blender, Adobe After Effect)  
 - Graphic Design (Figma, Canva, Adobe Illustrator)
 - Video Editing (Final Cut Pro, Adobe Premiere Pro)
 - Sound Composing (Logic Pro, FL Studio) 
@@ -31,5 +31,5 @@ Social Media
 - [Facebook Fanpage for my game development projects.](https://www.facebook.com/houseofscarletth/)
 - [Twitter account for my game development projects.](https://twitter.com/HouseofScarleth)
 - [Twitch](https://www.twitch.tv/lebrancconvas/videos) 
-- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks) 
+- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks)  
 

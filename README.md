@@ -19,6 +19,7 @@ more Interested:
 - Marketing 
 - Financial / Investment 
 - Economics 
+- Language (Japanese / Korean / French) 
 
 Entertainment Interested: 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)

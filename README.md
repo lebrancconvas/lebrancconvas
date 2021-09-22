@@ -4,6 +4,14 @@
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience. 
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=lebrancconvas&show_icons=true&theme=nightowl&locale=en" alt="lebrancconvas" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lebrancconvas&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="lebrancconvas" /></p>
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lebrancconvas&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="lebrancconvas" /></a></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lebrancconvas&" alt="lebrancconvas" /></p>
+
 Programming Language 
 - Python3
 - Javascript
@@ -41,5 +49,5 @@ Social Media
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
-- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)   
+- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)    
 

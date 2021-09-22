@@ -40,6 +40,6 @@ Social Media
 - [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
-- [Artstation(For my art projects.)](https://www.artstation.com/poomyimyuean) 
-- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)  
+- [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
+- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)   
 

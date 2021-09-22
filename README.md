@@ -1,6 +1,6 @@
 # Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lebrancconvas&label=Profile%20views&color=0e75b6&style=flat" alt="lebrancconvas" /> </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lebrancconvas&label=Profile%20views&color=0e75b6&style=flat" alt="lebrancconvas" /> </p>   
 ### He / Him, From Thailand. 
 
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   

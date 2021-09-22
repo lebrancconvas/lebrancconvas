@@ -14,14 +14,14 @@ because some topics I can't learn from College but from experience.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lebrancconvas&" alt="lebrancconvas" /></p> 
 
-##### Programming Language 
+**Programming Language** 
 - Python3
 - Javascript
 - Java
 - C++
 - Typescript  
 
-##### Interested in 
+**Interested in**
 - Web Development (VueJS, ReactJS, Typescript) 
 - Game Development (RPG Maker XP/MV/MZ, Unity, Construct3)
 - Data Science 
@@ -29,7 +29,7 @@ because some topics I can't learn from College but from experience.
 - Theoretical Computer Science 
 - Computer Graphics (Java Graphics API, OpenGL)  
 
-##### more Interested: 
+**More Interested** 
 - Pixel Art (Aseprite, Piskel)
 - 3D Modeling (Blender, Autodesk Maya, ZBrushCoreMini)
 - Animation (Aseprite, Blender, Adobe After Effect)  
@@ -42,15 +42,15 @@ because some topics I can't learn from College but from experience.
 - Mathematics (Especially in the topics with Computer Graphic and Game Development related.) 
 - Language (Japanese, Korean, French) 
 
-##### Entertainment Interested: 
+**Entertainment Interested** 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)
 - Game (JRPG, Adventure, Fighting, Strategy, Casual, Puzzle, Gacha, Visual Novel, Indie, etc.)   
 - Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
 
-##### Social Media 
+**Social Media** 
 - [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
-- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)    
+- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)     
 

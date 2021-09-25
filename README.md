@@ -6,6 +6,8 @@
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience. 
 
+[<img width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebrancconvas&line_height=21&theme=nightowl">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lebrancconvas&show_icons=true&theme=nightowl&locale=en" alt="lebrancconvas" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lebrancconvas&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="lebrancconvas" /></p>

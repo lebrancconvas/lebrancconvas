@@ -30,6 +30,7 @@ because some topics I can't learn from College but from experience.
 - User Experience Design 
 - Theoretical Computer Science 
 - Computer Graphics (Java Graphics API, OpenGL)  
+- Functional Programming 
 
 **More Interested** 
 - Pixel Art (Aseprite, Piskel)
@@ -41,7 +42,7 @@ because some topics I can't learn from College but from experience.
 - Marketing 
 - Financial / Investment 
 - Economics 
-- Mathematics (Especially in the topics with Computer Graphic and Game Development related.) 
+- Mathematics 
 - Language (Japanese, Korean, French) 
 
 **Entertainment Interested** 

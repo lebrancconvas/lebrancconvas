@@ -32,7 +32,7 @@ because some topics I can't learn from College but from experience.
 - Computer Graphics (Java Graphics API, OpenGL)  
 - Functional Programming 
 
-**Other Interested**
+**Other Interested**  
 Video Editing, Sound Composing, Pixel Art, Mathematics. 
 
 **Entertainment Interested** 

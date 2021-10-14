@@ -33,7 +33,7 @@ because some topics I can't learn from College but from experience.
 - Functional Programming 
 
 **Other Skills**  
-&nbsp;Video Editing / Sound Composing / Pixel Art / Mathematics. 
+&nbsp;&nbsp;&nbsp;&nbsp;Video Editing / Sound Composing / Pixel Art / Mathematics. 
 
 **Entertainment Interested** 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)

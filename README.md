@@ -25,25 +25,15 @@ because some topics I can't learn from College but from experience.
 
 **Interested in**
 - Web Development (VueJS, ReactJS, Typescript) 
-- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3)
+- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy)
 - Data Science 
 - User Experience Design 
 - Theoretical Computer Science 
 - Computer Graphics (Java Graphics API, OpenGL)  
 - Functional Programming 
 
-**More Interested** 
-- Pixel Art (Aseprite, Piskel)
-- 3D Modeling (Blender, Autodesk Maya, ZBrushCoreMini)
-- Animation (Aseprite, Blender, Adobe After Effect)  
-- Graphic Design (Figma, Canva, Adobe Illustrator)
-- Video Editing (Final Cut Pro, Adobe Premiere Pro)
-- Sound Composing (Logic Pro, FL Studio) 
-- Marketing 
-- Financial / Investment 
-- Economics 
-- Mathematics 
-- Language (Japanese, Korean, French) 
+**Other Interested**
+Video Editing, Sound Composing, Pixel Art, Mathematics. 
 
 **Entertainment Interested** 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)
@@ -57,3 +47,7 @@ because some topics I can't learn from College but from experience.
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
 - [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)     
 
+**E-Books Library Repository**
+- [Pure Mathematics E-Books.](https://github.com/lebrancconvas/Pure-Mathematics-EBooks)
+- [Computer Science E-Books.](https://github.com/lebrancconvas/Computer-Science-EBooks)
+- [Programming E-Books.](https://github.com/lebrancconvas/Programming-Notes-for-Professional)

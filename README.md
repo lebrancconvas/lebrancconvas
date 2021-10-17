@@ -27,7 +27,6 @@ because some topics I can't learn from College but from experience.
 - Web Development (VueJS, ReactJS, Typescript) 
 - Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy)
 - Data Science 
-- User Experience Design 
 - Theoretical Computer Science 
 - Computer Graphics (Java Graphics API, OpenGL)  
 - Functional Programming 

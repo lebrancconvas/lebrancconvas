@@ -29,7 +29,8 @@ because some topics I can't learn from College but from experience.
 - Data Science 
 - Theoretical Computer Science 
 - Computer Graphics (Java Graphics API, OpenGL)  
-- Functional Programming 
+- Functional Programming (Haskell, Scala, Elixir, Clojure, Javascript)
+- Web Scraping and Automation (Puppeteer, Cheerio, Axios)
 
 **Other Skills**  
 &nbsp;&nbsp;&nbsp;&nbsp;Video Editing / Sound Composing / Pixel Art / Mathematics. 

@@ -26,8 +26,8 @@ because some topics I can't learn from College but from experience.
 **Interested in**
 - Web Development (VueJS, ReactJS, Typescript) 
 - Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy)
-- Data Science 
-- Theoretical Computer Science 
+- Data Science (Python3, R, Jupyter Notebook, Anaconda) 
+- Theoretical Computer Science (Automata Theory, Category Theory, Data Structures and Algorithms)  
 - Computer Graphics (Java Graphics API, OpenGL)  
 - Functional Programming (Haskell, Scala, Elixir, Clojure, Javascript)
 - Web Scraping and Automation (Puppeteer, Cheerio, Axios)

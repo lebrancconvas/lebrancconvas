@@ -33,7 +33,11 @@ because some topics I can't learn from College but from experience.
 - Web Scraping and Automation (Puppeteer, Cheerio, Axios)
 
 **Other Skills**  
-&nbsp;&nbsp;&nbsp;&nbsp;Video Editing / Sound Composing / Pixel Art / Mathematics. 
+- Video Editing (Final Cut Pro, Adobe Premiere Pro)
+- Sound Composing (Logic Pro, FL Studio)
+- Pixel Art (Aseprite, Adobe Photoshop)
+- Graphic Design (Canva, Figma, Adobe Photoshop)
+- Mathematics (Wolfram Alpha, GeoGebra, Matlab)
 
 **Entertainment Interested** 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)

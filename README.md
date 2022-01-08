@@ -96,3 +96,24 @@ because some topics I can't learn from College but from experience.
   - Containerization 
     - [Docker](https://www.youtube.com/playlist?list=PL4gb8oBUMvam-CCWjpGjYFrpp79g-dbph) 
 - [Blockchain and Digital Assets](https://www.youtube.com/playlist?list=PL4gb8oBUMvaky4zyuEufKxpBYuzo6bVwi) 
+
+**Computer Science's Resource** 
+- Youtube Channel 
+  - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+  - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw) 
+  - [Neso Academy](https://www.youtube.com/c/nesoacademy) 
+  - [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial) 
+  - [Computerphile](https://www.youtube.com/user/Computerphile)
+  - [Game Developer Conference: GDC (Game Development)](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) 
+- Website 
+  - [GeeksforGeeks](https://www.geeksforgeeks.org) 
+  - [Tutorialspoint](https://www.tutorialspoint.com) 
+  - [Dev.to](https://dev.to) 
+  - [Sitepoint](https://www.sitepoint.com) 
+  - [Medium](https://medium.com) 
+- Massive Open Online Course (MOOC) 
+  - [Udemy](https://udemy.com) 
+  - [Udacity](https://www.udacity.com) 
+  - [Coursera](https://www.coursera.org) 
+  - [EDX](https://www.edx.org) 
+  - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)    

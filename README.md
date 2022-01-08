@@ -60,7 +60,11 @@ because some topics I can't learn from College but from experience.
 - [Computer Science E-Books.](https://github.com/lebrancconvas/Computer-Science-EBooks)
 - [Programming E-Books.](https://github.com/lebrancconvas/Programming-Notes-for-Professional)
 
-**Computer Science's Knowledge Sharing**
+**Computer Science's Knowledge Sharing (Youtube Playlist)**
+- Programming Language 
+  - [Javascript](https://www.youtube.com/playlist?list=PL4gb8oBUMvanv-h00ZWK2kCpIPSRiWJaj)
+  - [C#](https://www.youtube.com/playlist?list=PL4gb8oBUMvalfmvifGcr3QQ0RdAqSeiLg) 
+  - [Go](https://www.youtube.com/playlist?list=PL4gb8oBUMvak9I8XWk4cLYOjtYCp6kyNs) 
 - [Web Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvaknHDjMAwlnkzYv2BoDMFJd)
   - Library / Framework
     - [ReactJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvakvlwc-gchpcXWbQDVPIdQF)
@@ -69,5 +73,6 @@ because some topics I can't learn from College but from experience.
 - [Game Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvanp995ohDgwlIUgxBDLkkDT) 
   - Game Engine 
     - [Unity](https://www.youtube.com/playlist?list=PL4gb8oBUMvak5bl43yNBfkFBZKQ632oee) 
+  - Library / Framework 
+    - [OpenGL](https://www.youtube.com/playlist?list=PL4gb8oBUMvakCELncCToM3RRIfwfh9RW0) 
   - [Game Programming](https://www.youtube.com/playlist?list=PL4gb8oBUMvam6dNBE4A5VELkMC3VZeDiT) 
-  - [Unity]

@@ -122,4 +122,5 @@ because some topics I can't learn from College but from experience.
   - [Udacity](https://www.udacity.com) 
   - [Coursera](https://www.coursera.org) 
   - [Edx](https://www.edx.org) 
-  - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)    
+  - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  
+  - [Kaggle](https://www.kaggle.com/learn)   

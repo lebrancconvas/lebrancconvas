@@ -45,12 +45,15 @@ because some topics I can't learn from College but from experience.
 - Game (JRPG, Adventure, Fighting, Strategy, Casual, Puzzle, Gacha, Visual Novel, Indie, etc.)   
 - Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
 
-**Social Media** 
+**Social Media / Profile** 
+- [My Personal Portfolio](https://lebrancconvas.github.io)
 - [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
-- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)     
+- [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)
+- [All of my profile link.](https://linktr.ee/poomkunscarlet)
+- [About Me](https://about.me/poomkun)      
 
 **E-Books Library Repository**
 - [Pure Mathematics E-Books.](https://github.com/lebrancconvas/Pure-Mathematics-EBooks)

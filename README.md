@@ -105,6 +105,9 @@ because some topics I can't learn from College but from experience.
   - [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial) 
   - [Computerphile](https://www.youtube.com/user/Computerphile)
   - [Game Developer Conference: GDC (Game Development)](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) 
+  - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) 
+  - [Gamefromscratch (Game Development)](https://www.youtube.com/user/gamefromscratch) 
+  - [Web Dev Simplified (Web Development)](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)  
 - Website 
   - [GeeksforGeeks](https://www.geeksforgeeks.org) 
   - [Tutorialspoint](https://www.tutorialspoint.com) 
@@ -115,5 +118,5 @@ because some topics I can't learn from College but from experience.
   - [Udemy](https://udemy.com) 
   - [Udacity](https://www.udacity.com) 
   - [Coursera](https://www.coursera.org) 
-  - [EDX](https://www.edx.org) 
+  - [Edx](https://www.edx.org) 
   - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)    

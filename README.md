@@ -78,11 +78,14 @@ because some topics I can't learn from College but from experience.
   - Library / Framework 
     - [OpenGL](https://www.youtube.com/playlist?list=PL4gb8oBUMvakCELncCToM3RRIfwfh9RW0) 
   - [Game Programming](https://www.youtube.com/playlist?list=PL4gb8oBUMvam6dNBE4A5VELkMC3VZeDiT) 
-- [Mobile Development] 
+- Mobile Development
   - Platform / OS
     - [Android Mobile Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvalxPeMZOG_kWpeda50KqHW1) 
     - [iOS Mobile Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvak01ZSu3f_5yKPrY1WgzkUI) 
 - [User Experience Research and Design (UX Research & Design)](https://www.youtube.com/playlist?list=PL4gb8oBUMvamAxyCCySyZh13_2ejPQRor) 
+- User Interface Design (UI Design)
+  - Tools 
+    - [Figma](https://www.youtube.com/playlist?list=PL4gb8oBUMvakPlpFB_sRiFojxKrJ2OPY0)
 - [Database System](https://www.youtube.com/playlist?list=PL4gb8oBUMvanBRUw4qrX4kvckomFs5Vk9)
   - Tools
     - [SQL](https://www.youtube.com/playlist?list=PL4gb8oBUMvanXRr34uU6VDpCzo1_tRICm) 

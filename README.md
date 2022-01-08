@@ -114,6 +114,8 @@ because some topics I can't learn from College but from experience.
   - [Dev.to](https://dev.to) 
   - [Sitepoint](https://www.sitepoint.com) 
   - [Medium](https://medium.com) 
+- Podcast 
+  - [Ladybug Podcast](https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em) 
 - Massive Open Online Course (MOOC) 
   - [Udemy](https://udemy.com) 
   - [Udacity](https://www.udacity.com) 

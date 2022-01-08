@@ -65,6 +65,7 @@ because some topics I can't learn from College but from experience.
   - [Javascript](https://www.youtube.com/playlist?list=PL4gb8oBUMvanv-h00ZWK2kCpIPSRiWJaj)
   - [C#](https://www.youtube.com/playlist?list=PL4gb8oBUMvalfmvifGcr3QQ0RdAqSeiLg) 
   - [Go](https://www.youtube.com/playlist?list=PL4gb8oBUMvak9I8XWk4cLYOjtYCp6kyNs) 
+  - [Swift](https://www.youtube.com/playlist?list=PL4gb8oBUMvamZRS-SfqJnmWOi3HsftZbL) 
 - [Web Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvaknHDjMAwlnkzYv2BoDMFJd)
   - Library / Framework
     - [ReactJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvakvlwc-gchpcXWbQDVPIdQF)
@@ -77,3 +78,18 @@ because some topics I can't learn from College but from experience.
   - Library / Framework 
     - [OpenGL](https://www.youtube.com/playlist?list=PL4gb8oBUMvakCELncCToM3RRIfwfh9RW0) 
   - [Game Programming](https://www.youtube.com/playlist?list=PL4gb8oBUMvam6dNBE4A5VELkMC3VZeDiT) 
+- [Mobile Development] 
+  - Platform / OS
+    - [Android Mobile Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvalxPeMZOG_kWpeda50KqHW1) 
+    - [iOS Mobile Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvak01ZSu3f_5yKPrY1WgzkUI) 
+- [User Experience Research and Design (UX Research & Design)](https://www.youtube.com/playlist?list=PL4gb8oBUMvamAxyCCySyZh13_2ejPQRor) 
+- [Database System](https://www.youtube.com/playlist?list=PL4gb8oBUMvanBRUw4qrX4kvckomFs5Vk9)
+  - Tools
+    - [SQL](https://www.youtube.com/playlist?list=PL4gb8oBUMvanXRr34uU6VDpCzo1_tRICm) 
+- [Network System](https://www.youtube.com/playlist?list=PL4gb8oBUMvalYX7phzWMmd9Vc1W11rIRQ)
+- Development and Operations (DevOps)
+  - Version Control 
+    - [Git](https://www.youtube.com/playlist?list=PL4gb8oBUMvakWeBbXvAYHTDrw4zKBTeS0)
+  - Containerization 
+    - [Docker](https://www.youtube.com/playlist?list=PL4gb8oBUMvam-CCWjpGjYFrpp79g-dbph) 
+- [Blockchain and Digital Assets](https://www.youtube.com/playlist?list=PL4gb8oBUMvaky4zyuEufKxpBYuzo6bVwi) 

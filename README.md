@@ -59,3 +59,10 @@ because some topics I can't learn from College but from experience.
 - [Pure Mathematics E-Books.](https://github.com/lebrancconvas/Pure-Mathematics-EBooks)
 - [Computer Science E-Books.](https://github.com/lebrancconvas/Computer-Science-EBooks)
 - [Programming E-Books.](https://github.com/lebrancconvas/Programming-Notes-for-Professional)
+
+**Computer Science's Knowledge Sharing**
+- [Web Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvaknHDjMAwlnkzYv2BoDMFJd)
+  - [ReactJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvakvlwc-gchpcXWbQDVPIdQF)
+  - [VueJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvalsfo3BleYROXMYihZws9e0) 
+  - [AngularJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvan4b4diYNqOV56tIW9_S7At)
+- [Game Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvanp995ohDgwlIUgxBDLkkDT) 

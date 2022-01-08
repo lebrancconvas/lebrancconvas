@@ -38,6 +38,7 @@ because some topics I can't learn from College but from experience.
 - Pixel Art (Aseprite, Adobe Photoshop)
 - Graphic Design (Canva, Figma, Adobe Photoshop)
 - Mathematics (Wolfram Alpha, GeoGebra, Matlab)
+- Content Writing (Microsoft Word, Google Docs, Notion, Wordpress, Naver Blog, Medium) 
 
 **Entertainment Interested** 
 - Anime / Manga (Shonen, Seinen, Mystery, One-Shot, etc.)

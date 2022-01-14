@@ -48,6 +48,7 @@ because some topics I can't learn from College but from experience.
 **Social Media / Profile** 
 - [My Personal Portfolio](https://lebrancconvas.github.io) 
 - [Google Developer Profile](https://developers.google.com/profile/u/poomkunscarlet) 
+- [Wordpress (My Personal Blog)](https://lebrancconvas.wordpress.com) 
 - [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  

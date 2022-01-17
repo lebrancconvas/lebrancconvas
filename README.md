@@ -22,10 +22,12 @@ because some topics I can't learn from College but from experience.
 - Java
 - C++
 - Typescript  
+- C# 
+- Ruby 
 
 **Interested in**
 - Web Development (VueJS, ReactJS, Typescript) 
-- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy)
+- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy, C#, C++) 
 - Data Science (Python3, R, Jupyter Notebook, Anaconda) 
 - Theoretical Computer Science (Automata Theory, Category Theory, Data Structures and Algorithms)  
 - Computer Graphics (Java Graphics API, OpenGL)  

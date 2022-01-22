@@ -43,7 +43,7 @@ because some topics I can't learn from College but from experience.
 - Content Writing (Microsoft Word, Google Docs, Notion, Wordpress, Naver Blog, Medium) 
 
 **Entertainment Interested** 
-- Anime / Manga (Shonen, Seinen, Mystery, Adventure, Slife of Life, One-Shot, etc.)  
+- Anime / Manga (Shonen, Seinen, Mystery, Adventure, Slice of Life, One-Shot, etc.)  
 - Game (JRPG, Adventure, Fighting, Rhythm, Strategy, Trading-Card, Arcade, Casual, Puzzle, Gacha, Visual Novel, Indie, etc.)   
 - Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
 

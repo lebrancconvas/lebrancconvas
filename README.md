@@ -134,6 +134,7 @@ because some topics I can't learn from College but from experience.
   - [Computer Science Videos Courses](https://github.com/Developer-Y/cs-video-courses) 
   - [Math & Science Videos Courses](https://github.com/Developer-Y/math-science-video-lectures) 
   - [Data Structures & Algorithms](https://github.com/ZoranPandovski/al-go-rithms) 
+  - [Design Patterns](https://github.com/ZoranPandovski/design-patterns) 
   - [Technical Interviewing](https://github.com/Developer-Y/technical-interviews) 
   - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) 
   - [All things Java](https://github.com/Developer-Y/all-things-java) 

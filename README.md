@@ -10,7 +10,7 @@ because some topics I can't learn from College but from experience.
   
 I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Japanese / Korean Language, ETC. 
   
-I use Github as Version Management, Project Source Codes and any resources Storage, and Software Developer Social Platform.     
+I use Github as Version Management, Project Resources Storage, Knowledge Resource, and Software Developer Social Networking Platform.     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebrancconvas&label=Profile%20views&color=0e75b6&style=flat" alt="lebrancconvas" /> </p> 
 

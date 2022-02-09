@@ -6,7 +6,7 @@
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience. 
 
-[![wakatime](https://wakatime.com/badge/user/lebrancconvas.svg)](https://wakatime.com/@lebrancconvas) 
+[![wakatime](https://wakatime.com/badge/user/aa7caa62-dc2b-435e-95ef-ebf1d6af4205.svg)](https://wakatime.com/@aa7caa62-dc2b-435e-95ef-ebf1d6af4205)
 
 <img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebrancconvas&line_height=21&theme=dracula"> 
 

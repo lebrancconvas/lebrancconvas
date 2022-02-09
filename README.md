@@ -8,7 +8,7 @@
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience.  
   
-I'm interested in Web Development, Web Scraping & Automation, Game Development, and Data Science.  
+I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Japanese / Korean Language, ETC. 
   
 I use Github as Version Management, Project Source Codes and any resources Storage, and Software Developer Social Platform.     
 

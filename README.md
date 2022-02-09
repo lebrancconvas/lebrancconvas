@@ -18,6 +18,8 @@ because some topics I can't learn from College but from experience.
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebrancconvas&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/lebrancconvas)
 
+## Personal Information 
+
 **Programming Language** 
 - Python3
 - Javascript
@@ -60,7 +62,9 @@ because some topics I can't learn from College but from experience.
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
 - [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)
 - [Linktree (All of my profile link)](https://linktr.ee/poomkunscarlet) 
-- [About Me](https://about.me/poomkun)      
+- [About Me](https://about.me/poomkun)     
+
+## Resource & Knowledge Sharing 
 
 **E-Books Library Repository**
 - [Pure Mathematics E-Books.](https://github.com/lebrancconvas/Pure-Mathematics-EBooks)

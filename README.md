@@ -16,7 +16,7 @@ because some topics I can't learn from College but from experience.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lebrancconvas&" alt="lebrancconvas" /></p> 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/lebrancconvas)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebrancconvas&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/lebrancconvas)
 
 **Programming Language** 
 - Python3

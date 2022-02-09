@@ -6,9 +6,9 @@
 ## Bio & Badge 
 
 I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
-because some topics I can't learn from College but from experience. 
-I'm interested in Web Development, Web Scraping & Automation, Game Development, and Data Science. 
-I use Github as Version Management, Project Source Codes and any resources Storage, and Software Developer Social Platform.   
+because some topics I can't learn from College but from experience.  
+I'm interested in Web Development, Web Scraping & Automation, Game Development, and Data Science.  
+I use Github as Version Management, Project Source Codes and any resources Storage, and Software Developer Social Platform.     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebrancconvas&label=Profile%20views&color=0e75b6&style=flat" alt="lebrancconvas" /> </p> 
 

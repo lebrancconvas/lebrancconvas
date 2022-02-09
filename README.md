@@ -59,7 +59,7 @@ because some topics I can't learn from College but from experience.
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
 - [Twitch (I do streaming on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)
-- [All of my profile link.](https://linktr.ee/poomkunscarlet)
+- [Linktree (All of my profile link)](https://linktr.ee/poomkunscarlet) 
 - [About Me](https://about.me/poomkun)      
 
 **E-Books Library Repository**

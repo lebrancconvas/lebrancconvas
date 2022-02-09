@@ -53,6 +53,7 @@ because some topics I can't learn from College but from experience.
 - [My Personal Portfolio](https://lebrancconvas.github.io) 
 - [Google Developer Profile](https://developers.google.com/profile/u/poomkunscarlet) 
 - [Wordpress (My Personal Blog)](https://lebrancconvas.wordpress.com) 
+- [Wakatime (My Programming History)](https://wakatime.com/@lebrancconvas) 
 - [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
@@ -103,7 +104,7 @@ because some topics I can't learn from College but from experience.
     - [Docker](https://www.youtube.com/playlist?list=PL4gb8oBUMvam-CCWjpGjYFrpp79g-dbph) 
 - [Blockchain and Digital Assets](https://www.youtube.com/playlist?list=PL4gb8oBUMvaky4zyuEufKxpBYuzo6bVwi) 
 
-**Computer Science's Resource** 
+**Computer Science's Resource Recommended** 
 - Youtube Channel 
   - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
   - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw) 

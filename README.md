@@ -61,8 +61,9 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 
 **Social Media / Profile** 
 - [My Personal Portfolio](https://lebrancconvas.github.io) 
-- [Google Developer Profile](https://developers.google.com/profile/u/poomkunscarlet) 
+- [Linkedin](https://www.linkedin.com/in/poom-yimyuean-6340a3b8) 
 - [Wordpress (My Personal Blog)](https://lebrancconvas.wordpress.com) 
+- [Google Developer Profile](https://developers.google.com/profile/u/poomkunscarlet) 
 - [Wakatime (My Programming History)](https://wakatime.com/@lebrancconvas) 
 - [Facebook (Fanpage for my game development projects.)](https://www.facebook.com/houseofscarletth/)
 - [Twitter (Account for my game development projects.)](https://twitter.com/HouseofScarleth)

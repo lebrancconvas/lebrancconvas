@@ -55,9 +55,9 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 - Content Writing (Microsoft Word, Google Docs, Notion, Wordpress, Naver Blog, Medium) 
 
 **Entertainment Interested** 
-- Anime / Manga (Shonen, Seinen, Mystery, Adventure, Slice of Life, One-Shot, etc.)  
-- Game (JRPG, Adventure, Fighting, Rhythm, Strategy, Trading-Card, Arcade, Casual, Puzzle, Gacha, Visual Novel, Indie, etc.)   
-- Music (Game OST., Anisong, Rock / Metal, J-Pop, Indie, etc.)   
+- Anime / Manga (Shonen, Seinen, Mystery, Adventure, Slice of Life, One-Shot, ETC.)  
+- Game (JRPG, Adventure, Fighting, Rhythm, Strategy, Trading-Card, Arcade, Casual, Puzzle, Gacha, Visual Novel, Indie, ETC.)   
+- Music (Game OST., Anisong (Anime OST.), Rock / Metal, J-Pop, Indie, ETC.)   
 
 **Social Media / Profile** 
 - [My Personal Portfolio](https://lebrancconvas.github.io) 

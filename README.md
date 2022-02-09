@@ -130,3 +130,11 @@ because some topics I can't learn from College but from experience.
   - [Edx](https://www.edx.org) 
   - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  
   - [Kaggle](https://www.kaggle.com/learn)   
+- Github Repository 
+  - [Computer Science Videos Courses](https://github.com/Developer-Y/cs-video-courses) 
+  - [Math & Science Videos Courses](https://github.com/Developer-Y/math-science-video-lectures) 
+  - [Data Structures & Algorithms](https://github.com/ZoranPandovski/al-go-rithms) 
+  - [Technical Interviewing](https://github.com/Developer-Y/technical-interviews) 
+  - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) 
+  - [All things Java](https://github.com/Developer-Y/all-things-java) 
+  - [Scalable Software Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) 

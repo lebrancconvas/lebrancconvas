@@ -4,7 +4,7 @@
 
 ### He / Him, From Thailand. 
 
-I'm studying in the major of Computer Science. But I'm still Self-Taught Developer   
+I'm still Self-Taught Developer   
 because some topics I can't learn from College but from experience.  
   
 I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Japanese / Korean Language, ETC. 

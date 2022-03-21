@@ -100,6 +100,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - Library / Framework 
     - [OpenGL](https://www.youtube.com/playlist?list=PL4gb8oBUMvakCELncCToM3RRIfwfh9RW0) 
     - [Monogame](https://www.youtube.com/playlist?list=PL4gb8oBUMvanb2wZiWRzz2MpkR1wcMz87) 
+    - [SFML](https://www.youtube.com/playlist?list=PL4gb8oBUMvanBgsiBO95esSkw47j1bEJ3) 
   - [Game Programming](https://www.youtube.com/playlist?list=PL4gb8oBUMvam6dNBE4A5VELkMC3VZeDiT) 
 - Mobile Development
   - Platform / OS

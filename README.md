@@ -40,7 +40,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 
 **Interested in**
 - Web Development (VueJS, ReactJS, Typescript) 
-- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy, C#, C++, Monogame)  
+- Game Development (RPG Maker XP/MV/MZ, Unity, Construct3, RenPy, C#, C++, Monogame, Phaser 3)   
 - Data Science (Python3, R, Jupyter Notebook, Anaconda) 
 - Theoretical Computer Science (Automata Theory, Category Theory, Data Structures and Algorithms)  
 - Computer Graphics (Java Graphics API, OpenGL, Three.js)  

@@ -96,6 +96,8 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
     - [AngularJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvan4b4diYNqOV56tIW9_S7At)
     - [Spring Boot](https://www.youtube.com/playlist?list=PL4gb8oBUMvaloS7Rm0OlOdFvuoUfYT-Te)
     - [Three.JS](https://www.youtube.com/playlist?list=PL4gb8oBUMvamyAFC9JMGQzG9YcywQa_GG) 
+  - Tool 
+    - [WebAssembly](https://www.youtube.com/playlist?list=PL4gb8oBUMvakYAyrWtzu3DOBmhoDYKmsg) 
 - [Game Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvanp995ohDgwlIUgxBDLkkDT) 
   - Tool / Engine 
     - [Unity](https://www.youtube.com/playlist?list=PL4gb8oBUMvak5bl43yNBfkFBZKQ632oee) 

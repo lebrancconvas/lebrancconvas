@@ -97,8 +97,9 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
     - [Spring Boot](https://www.youtube.com/playlist?list=PL4gb8oBUMvaloS7Rm0OlOdFvuoUfYT-Te)
     - [Three.JS](https://www.youtube.com/playlist?list=PL4gb8oBUMvamyAFC9JMGQzG9YcywQa_GG) 
 - [Game Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvanp995ohDgwlIUgxBDLkkDT) 
-  - Game Engine 
+  - Tool / Engine 
     - [Unity](https://www.youtube.com/playlist?list=PL4gb8oBUMvak5bl43yNBfkFBZKQ632oee) 
+    - [Bevy (Rust)](https://www.youtube.com/playlist?list=PL4gb8oBUMvanfc4EaMANMbRdfENkFrJSw) 
   - Library / Framework 
     - [OpenGL](https://www.youtube.com/playlist?list=PL4gb8oBUMvakCELncCToM3RRIfwfh9RW0) 
     - [Monogame](https://www.youtube.com/playlist?list=PL4gb8oBUMvanb2wZiWRzz2MpkR1wcMz87) 

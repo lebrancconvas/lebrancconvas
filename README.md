@@ -85,6 +85,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 **Computer Science's Knowledge Sharing (Youtube Playlist)**
 - Programming Language 
   - [Javascript](https://www.youtube.com/playlist?list=PL4gb8oBUMvanv-h00ZWK2kCpIPSRiWJaj)
+  - [Typescript](https://www.youtube.com/playlist?list=PL4gb8oBUMvakrLP2FTIyEOa_zBFzSo6zy) 
   - [C#](https://www.youtube.com/playlist?list=PL4gb8oBUMvalfmvifGcr3QQ0RdAqSeiLg) 
   - [Go](https://www.youtube.com/playlist?list=PL4gb8oBUMvak9I8XWk4cLYOjtYCp6kyNs) 
   - [Swift](https://www.youtube.com/playlist?list=PL4gb8oBUMvamZRS-SfqJnmWOi3HsftZbL) 

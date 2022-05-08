@@ -144,6 +144,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - [Dev.to](https://dev.to) 
   - [Sitepoint](https://www.sitepoint.com) 
   - [Medium](https://medium.com) 
+  - [App Daily Dev](https://app.daily.dev/)
 - Podcast 
   - [Ladybug Podcast](https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em) 
 - Massive Open Online Course (MOOC) 

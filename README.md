@@ -27,7 +27,8 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebrancconvas&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/lebrancconvas)
 
-## Personal Information 
+<details>
+<summary>## Personal Information</summary>  
 
 **Programming Language** 
 - Python3
@@ -74,7 +75,8 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 - [Twitch (I do stream on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)
 - [Linktree (All of my profile link)](https://linktr.ee/poomkunscarlet) 
 - [About Me](https://about.me/poomkun)     
-
+</details>
+  
 ## Resource & Knowledge Sharing 
 
 **E-Books Library Repository**

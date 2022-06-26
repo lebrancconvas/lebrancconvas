@@ -5,7 +5,7 @@
 
 ### He / Him, From Thailand. 
 
-I'm still Self-Taught Developer   
+Even If I'm a Computer Science Student, but I'm still Self-Taught Developer.  
 because some topics I can't learn from College but from experience.  
   
 I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Japanese / Korean Language, ETC. 

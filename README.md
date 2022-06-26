@@ -13,7 +13,8 @@ I'm interested in Computer Science and many fields such as Video Content, Visual
 I use Github as Version Management, Project Resources Storage, Knowledge Resource, and Software Developer Social Networking Platform. 
 </details>
 
-## Badge 
+<details>
+<summary><b><h2>Badge</h2></b></summary> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebrancconvas&label=Profile%20views&color=0e75b6&style=flat" alt="lebrancconvas" /> </p> 
 
@@ -28,7 +29,8 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lebrancconvas&" alt="lebrancconvas" /></p> 
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebrancconvas&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/lebrancconvas)
-
+</details>
+  
 <details>
 <summary><b><h2>Personal Information</h2></b></summary>  
 

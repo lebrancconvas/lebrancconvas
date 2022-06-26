@@ -67,8 +67,8 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 
 **Social Media / Profile** 
 - [My Personal Portfolio](https://lebrancconvas.github.io) 
-- [Linkedin](https://www.linkedin.com/in/poom-yimyuean-6340a3b8) 
 - [Wordpress (My Personal Blog)](https://lebrancconvas.wordpress.com) 
+- [Ghost CMS (My Personal Blog)](https://poomkun.ghost.io) 
 - [Docker Hub](https://hub.docker.com/u/poomkunscarlet)
 - [Node Package Manager (NPM) Account](https://www.npmjs.com/~poomkunscarlet)
 - [Wakatime (My Programming History)](https://wakatime.com/@lebrancconvas) 
@@ -77,8 +77,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 - [Soundcloud (For my audio composing projects.)](https://soundcloud.com/poomkun-scarlet/tracks)  
 - [Artstation (For my art projects.)](https://www.artstation.com/poomyimyuean) 
 - [Twitch (I do stream on game and programming sometimes.)](https://www.twitch.tv/lebrancconvas/videos)
-- [Linktree (All of my profile link)](https://linktr.ee/poomkunscarlet) 
-- [About Me](https://about.me/poomkun)     
+- [Linktree](https://linktr.ee/poomkunscarlet)     
 </details>
  
 <details>

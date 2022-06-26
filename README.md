@@ -28,7 +28,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebrancconvas&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/lebrancconvas)
 
 <details>
-<summary><b><h1>Personal Information</h1></b></summary>  
+<summary><b><h2>Personal Information</h2></b></summary>  
 
 **Programming Language** 
 - Python3

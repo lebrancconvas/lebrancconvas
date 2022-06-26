@@ -1,6 +1,7 @@
 # Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas) 
 
-## Bio
+<details>
+<summary><b><h2>Bio</h2></b></summary>
 
 ### He / Him, From Thailand. 
 
@@ -9,7 +10,8 @@ because some topics I can't learn from College but from experience.
   
 I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Japanese / Korean Language, ETC. 
   
-I use Github as Version Management, Project Resources Storage, Knowledge Resource, and Software Developer Social Networking Platform.     
+I use Github as Version Management, Project Resources Storage, Knowledge Resource, and Software Developer Social Networking Platform. 
+</details>
 
 ## Badge 
 

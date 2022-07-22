@@ -16,11 +16,11 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 <details>
 <summary><b><h2>Badge</h2></b></summary> 
 
-<a href="https://app.daily.dev/poomkunscarlet"><img src="https://api.daily.dev/devcards/eedc2e551d3747948195f6f2827a1eed.png?r=2fx" width="400" alt="Poom Yimyuean's Dev Card"/></a> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebrancconvas&label=Profile%20views&color=0e75b6&style=flat" alt="lebrancconvas" /> </p> 
 
 [![wakatime](https://wakatime.com/badge/user/aa7caa62-dc2b-435e-95ef-ebf1d6af4205.svg)](https://wakatime.com/@aa7caa62-dc2b-435e-95ef-ebf1d6af4205)
+
+<a href="https://app.daily.dev/poomkunscarlet"><img src="https://api.daily.dev/devcards/eedc2e551d3747948195f6f2827a1eed.png?r=2fx" width="400" alt="Poom Yimyuean's Dev Card"/></a> 
 
 <img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebrancconvas&line_height=21&theme=dracula"> 
 

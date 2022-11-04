@@ -98,6 +98,8 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - [Go](https://www.youtube.com/playlist?list=PL4gb8oBUMvak9I8XWk4cLYOjtYCp6kyNs) 
   - [Swift](https://www.youtube.com/playlist?list=PL4gb8oBUMvamZRS-SfqJnmWOi3HsftZbL) 
   - [Rust](https://www.youtube.com/playlist?list=PL4gb8oBUMvan04jx76rLKhKPYDdM3eQX7) 
+- Scripting Language 
+  - [Shell Script / Bash](https://www.youtube.com/playlist?list=PL4gb8oBUMvam4Tvb-Cgy1vpp8_KjuxcAb)
 - [Web Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvaknHDjMAwlnkzYv2BoDMFJd)
   - Library / Framework
     - [ReactJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvakvlwc-gchpcXWbQDVPIdQF)

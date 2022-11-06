@@ -91,6 +91,10 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 - [Programming E-Books.](https://github.com/lebrancconvas/Programming-Notes-for-Professional)
 
 **Computer Science's Knowledge Sharing (Youtube Playlist)**
+- Text Editor / IDE 
+  - [Visual Studio Code](https://www.youtube.com/playlist?list=PL4gb8oBUMvamLWhN15VTodBYVlXf65GRd)
+  - [Vim](https://www.youtube.com/playlist?list=PL4gb8oBUMval2bO4oHVzgpTz5yZ_NMnBa)
+  - [Neovim](https://www.youtube.com/playlist?list=PL4gb8oBUMvanCM0IMmAIOhs6sZpQHKsWf)
 - Programming Language 
   - [Javascript](https://www.youtube.com/playlist?list=PL4gb8oBUMvanv-h00ZWK2kCpIPSRiWJaj)
   - [Typescript](https://www.youtube.com/playlist?list=PL4gb8oBUMvakrLP2FTIyEOa_zBFzSo6zy) 

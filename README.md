@@ -70,7 +70,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 **Social Media / Profile** 
 - [My Personal Portfolio](https://lebrancconvas.github.io) 
 - [Wordpress (My Personal Blog)](https://lebrancconvas.wordpress.com) 
-- [Ghost CMS (My Personal Blog)](https://poomkun.ghost.io) 
+- [Leetcode (Problem Solving by Programming)](https://leetcode.com/lebrancconvas)
 - [Docker Hub](https://hub.docker.com/u/poomkunscarlet)
 - [Node Package Manager (NPM) Account](https://www.npmjs.com/~poomkunscarlet)
 - [Wakatime (My Programming History)](https://wakatime.com/@lebrancconvas) 

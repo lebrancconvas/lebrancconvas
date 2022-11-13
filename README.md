@@ -101,6 +101,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - [Java](https://www.youtube.com/playlist?list=PL4gb8oBUMvan9XrHcjB0seN-aze2FTlSo)
   - [C#](https://www.youtube.com/playlist?list=PL4gb8oBUMvalfmvifGcr3QQ0RdAqSeiLg) 
   - [Go](https://www.youtube.com/playlist?list=PL4gb8oBUMvak9I8XWk4cLYOjtYCp6kyNs) 
+  - [Dart](https://www.youtube.com/playlist?list=PL4gb8oBUMvanzFdMUdVBO67ztPOATa5wt)
   - [Swift](https://www.youtube.com/playlist?list=PL4gb8oBUMvamZRS-SfqJnmWOi3HsftZbL) 
   - [Rust](https://www.youtube.com/playlist?list=PL4gb8oBUMvan04jx76rLKhKPYDdM3eQX7) 
   - [Nim](https://www.youtube.com/playlist?list=PL4gb8oBUMvaki00TMhag3xdRtUTmn15Rk) 

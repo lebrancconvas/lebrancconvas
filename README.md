@@ -129,6 +129,9 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - Platform / OS
     - [Android Mobile Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvalxPeMZOG_kWpeda50KqHW1) 
     - [iOS Mobile Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvak01ZSu3f_5yKPrY1WgzkUI) 
+- Cross-Platform Development 
+    - Library / Framework 
+      - [Flutter](https://www.youtube.com/playlist?list=PL4gb8oBUMvakIC7i3M02qflUw2DScgl3B)
 - [User Experience Research and Design (UX Research & Design)](https://www.youtube.com/playlist?list=PL4gb8oBUMvamAxyCCySyZh13_2ejPQRor) 
 - User Interface Design (UI Design)
   - Tools 

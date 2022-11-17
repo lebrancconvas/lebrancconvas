@@ -104,6 +104,10 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - [Dart](https://www.youtube.com/playlist?list=PL4gb8oBUMvanzFdMUdVBO67ztPOATa5wt)
   - [Swift](https://www.youtube.com/playlist?list=PL4gb8oBUMvamZRS-SfqJnmWOi3HsftZbL) 
   - [Rust](https://www.youtube.com/playlist?list=PL4gb8oBUMvan04jx76rLKhKPYDdM3eQX7) 
+  - [Scala](https://www.youtube.com/playlist?list=PL4gb8oBUMvakg8Bs5GZieoL3dxWXntNVv)
+  - [Haskell](https://www.youtube.com/playlist?list=PL4gb8oBUMvalSSKroB0vu-piiZdlXg4AU)
+  - [Lua](https://www.youtube.com/playlist?list=PL4gb8oBUMvakhsalttygKQcqZRQDaBGuo)
+  - [Clojure](https://www.youtube.com/playlist?list=PL4gb8oBUMvalD1_KIO_VCE3oQIaVqD5gw)
   - [Nim](https://www.youtube.com/playlist?list=PL4gb8oBUMvaki00TMhag3xdRtUTmn15Rk) 
 - Scripting Language 
   - [Shell Script / Bash](https://www.youtube.com/playlist?list=PL4gb8oBUMvam4Tvb-Cgy1vpp8_KjuxcAb)

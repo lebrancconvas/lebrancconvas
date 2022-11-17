@@ -111,6 +111,9 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - [Nim](https://www.youtube.com/playlist?list=PL4gb8oBUMvaki00TMhag3xdRtUTmn15Rk) 
 - Scripting Language 
   - [Shell Script / Bash](https://www.youtube.com/playlist?list=PL4gb8oBUMvam4Tvb-Cgy1vpp8_KjuxcAb)
+- Programming Paradigm 
+  - [Object-Oriented Programming (OOP)](https://www.youtube.com/playlist?list=PL4gb8oBUMvakF0tpLa7l_Ukxmdn5AecJg) 
+  - [Functional Programming (FP)](https://www.youtube.com/playlist?list=PL4gb8oBUMval6Vh2ghyjnfoe-subUlNvJ) 
 - [Web Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvaknHDjMAwlnkzYv2BoDMFJd)
   - Library / Framework
     - [ReactJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvakvlwc-gchpcXWbQDVPIdQF)

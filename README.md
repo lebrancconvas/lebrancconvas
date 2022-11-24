@@ -152,6 +152,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
     - [Git](https://www.youtube.com/playlist?list=PL4gb8oBUMvakWeBbXvAYHTDrw4zKBTeS0)
   - Containerization 
     - [Docker](https://www.youtube.com/playlist?list=PL4gb8oBUMvam-CCWjpGjYFrpp79g-dbph) 
+- [Software Engineering / Software Design / Software Architecture](https://www.youtube.com/playlist?list=PL4gb8oBUMvan74B0cTsw7S_6TxrgM7XTp) 
 - [Blockchain and Digital Assets](https://www.youtube.com/playlist?list=PL4gb8oBUMvaky4zyuEufKxpBYuzo6bVwi) 
 
 **Computer Science's Resource Recommended** 

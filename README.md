@@ -140,6 +140,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
     - Library / Framework 
       - [Flutter](https://www.youtube.com/playlist?list=PL4gb8oBUMvakIC7i3M02qflUw2DScgl3B)
 - [User Experience Research and Design (UX Research & Design)](https://www.youtube.com/playlist?list=PL4gb8oBUMvamAxyCCySyZh13_2ejPQRor) 
+  - [Application Design Critique](https://www.youtube.com/playlist?list=PL4gb8oBUMvaniagrrSSp8yIYEXC39_iXD) 
 - User Interface Design (UI Design)
   - Tools 
     - [Figma](https://www.youtube.com/playlist?list=PL4gb8oBUMvakPlpFB_sRiFojxKrJ2OPY0)

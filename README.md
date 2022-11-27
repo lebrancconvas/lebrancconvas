@@ -175,6 +175,10 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
   - [Sitepoint](https://www.sitepoint.com) 
   - [Medium](https://medium.com) 
   - [App Daily Dev](https://app.daily.dev/)
+  - [ByteByteGo](https://blog.bytebytego.com/archive?sort=new)
+  - [Javascript Patterns](https://javascriptpatterns.vercel.app/)
+  - [Hashnode](https://hashnode.com/)
+  - [Game Developer (Gamasutra)](https://www.gamedeveloper.com/)
 - Podcast 
   - [Ladybug Podcast](https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em) 
 - Massive Open Online Course (MOOC) 

@@ -119,6 +119,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
     - [ReactJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvakvlwc-gchpcXWbQDVPIdQF)
     - [VueJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvalsfo3BleYROXMYihZws9e0) 
     - [AngularJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvan4b4diYNqOV56tIW9_S7At)
+    - [NextJS](https://www.youtube.com/playlist?list=PL4gb8oBUMvandKBVLHN_7YI3ajrMTuClS) 
     - [Spring Boot](https://www.youtube.com/playlist?list=PL4gb8oBUMvaloS7Rm0OlOdFvuoUfYT-Te)
     - [Three.JS](https://www.youtube.com/playlist?list=PL4gb8oBUMvamyAFC9JMGQzG9YcywQa_GG) 
     - [Svelte](https://www.youtube.com/playlist?list=PL4gb8oBUMvamFP6_kPrgqCpZImANQ9msG)

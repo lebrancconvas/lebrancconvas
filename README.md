@@ -125,6 +125,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
     - [SvelteKit](https://www.youtube.com/playlist?list=PL4gb8oBUMvamgm2bJpn18EiExLbTLJWSU)
     - [Spring Boot](https://www.youtube.com/playlist?list=PL4gb8oBUMvaloS7Rm0OlOdFvuoUfYT-Te)
     - [Three.JS](https://www.youtube.com/playlist?list=PL4gb8oBUMvamyAFC9JMGQzG9YcywQa_GG) 
+    - [Framer Motion (Animation)](https://www.youtube.com/playlist?list=PL4gb8oBUMvamLHMsYc5J8Q8e1zHWPuibo) 
   - Tool 
     - [WebAssembly](https://www.youtube.com/playlist?list=PL4gb8oBUMvakYAyrWtzu3DOBmhoDYKmsg) 
 - [Game Development](https://www.youtube.com/playlist?list=PL4gb8oBUMvanp995ohDgwlIUgxBDLkkDT) 

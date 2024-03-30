@@ -52,7 +52,7 @@ I use Github as Version Management, Project Resources Storage, Knowledge Resourc
 - Theoretical Computer Science (Automata Theory, Category Theory, Data Structures and Algorithms)  
 - Computer Graphics (Java Graphics API, OpenGL, Three.js)  
 - Functional Programming (Haskell, Scala, Elixir, Clojure, Javascript)
-- Web Scraping and Automation (Puppeteer, Cheerio, Axios)
+- Web Scraping and Automation (Puppeteer, Cheerio, Axios, Playwright)
 
 **Other Skills**  
 - Video Editing (Final Cut Pro, Adobe Premiere Pro)

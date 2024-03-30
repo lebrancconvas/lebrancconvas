@@ -8,7 +8,7 @@
 Even If I'm a Computer Science Student, but I'm still Self-Taught Developer.  
 because some topics I can't learn from College but from experience.  
   
-I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Chinese, Japanese / Korean Language, ETC. 
+I'm interested in Computer Science and many fields such as Video Content, Visual Art, Sound Design & Composing, Chinese / Japanese / Korean Language, ETC. 
   
 I use Github as Version Management, Project Resources Storage, Knowledge Resource, and Software Developer Social Networking Platform. 
 </details>

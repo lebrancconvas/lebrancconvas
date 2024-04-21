@@ -1,5 +1,7 @@
 # Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas) 
 
+<a href="https://gitroll.io/profile/uuu7sknQPLUOFI8Qo3oeZm9202JX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uuu7sknQPLUOFI8Qo3oeZm9202JX2" alt="GitRoll Profile Badge"/></a>
+
 <details>
 <summary><b><h2>Bio</h2></b></summary>
 

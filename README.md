@@ -1,5 +1,7 @@
 # Hi, I'm Poom (Alias: Poomkun Scarlet / Lebranc Convas) 
 
+# Everything is ok If you know how it works and how to deal with it.
+
 <a href="https://gitroll.io/profile/uuu7sknQPLUOFI8Qo3oeZm9202JX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uuu7sknQPLUOFI8Qo3oeZm9202JX2" alt="GitRoll Profile Badge"/></a>
 
 <details>

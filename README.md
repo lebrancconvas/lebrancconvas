@@ -28,7 +28,7 @@ Hi, I'm Poom. I'm a passionate Software Engineer who believes that making softwa
   - DevOps-based Tool
     - Ubuntu (Linux Distribution)
     - Git (Version Control)
-    - Docker (Environment Containerized Tool)
+    - Docker (Environment Containerization Tool)
     - Github Action (CI/CD) (In Learning)
 - **Expertise**
   - Web Development

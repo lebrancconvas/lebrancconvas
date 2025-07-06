@@ -29,4 +29,4 @@ Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Develop
 ## Contact 
 - [Email](mailto:poomyimyuean@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/poom-yimyuean)
-- [Discord (poomkunscarlet)]
+- Discord (username: poomkunscarlet)

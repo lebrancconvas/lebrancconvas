@@ -6,14 +6,14 @@ Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Develop
 
 ## Skill 
 
-- Programming Language
+- **Programming Language**
   - JavaScript / TypeScript
   - Go
   - Python
   - Java
   - Rust (In Learning)
   - Haskell (In Learning)
-- Framework / Library / Development Tool
+- **Framework / Library / Development Tool**
   - React / NextJS
   - Vue / NuxtJS
   - Svelte / SvelteKit
@@ -25,6 +25,12 @@ Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Develop
   - Git (Version Control)
   - Docker (Environment Containerized Tool)
   - Ubuntu (Linux Distribution)
+- **Expertise**
+  - Web Development
+  - Game Development
+  - Functional Programming
+  - Web Automation
+  - Computer Graphics
 
 ## Contact 
 - [Email](mailto:poomyimyuean@gmail.com)

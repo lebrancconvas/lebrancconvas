@@ -14,18 +14,22 @@ Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Develop
   - Rust (In Learning)
   - C++ (In Learning)
   - Haskell (In Learning)
-- **Framework / Library / Development Tool**
-  - React / NextJS
-  - Vue / NuxtJS
-  - Svelte / SvelteKit
-  - Express (Node.js)
-  - Gin (Go)
-  - FastAPI (Python)
-  - Playwright (End-to-End Testing) 
-  - Bun (JavaScript Runtime)
-  - Git (Version Control)
-  - Docker (Environment Containerized Tool)
-  - Ubuntu (Linux Distribution)
+- **Development Tool**
+  - Web Technology
+    - React / NextJS
+    - Vue / NuxtJS
+    - Svelte / SvelteKit
+  - Back-End / API Tool
+    - Express (Node.js)
+    - Gin (Go)
+    - FastAPI (Python)
+  - Testing
+    - Playwright (End-to-End Testing)
+  - DevOps-based Tool
+    - Ubuntu (Linux Distribution)
+    - Git (Version Control)
+    - Docker (Environment Containerized Tool)
+    - Github Action (CI/CD) (In Learning)
 - **Expertise**
   - Web Development
   - Game Development

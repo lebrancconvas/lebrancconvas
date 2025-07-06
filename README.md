@@ -34,7 +34,7 @@ Hi, I'm Poom (He/him). I'm a passionate Software Engineer from Thailand who beli
   - Web Development
   - Game Development
   - Functional Programming
-  - Web Automation
+  - Web Scraping & Automation
   - Computer Graphics
   - Emulation (In Learning)
 

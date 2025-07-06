@@ -2,7 +2,7 @@
 
 <a href="https://gitroll.io/profile/uuu7sknQPLUOFI8Qo3oeZm9202JX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uuu7sknQPLUOFI8Qo3oeZm9202JX2" alt="GitRoll Profile Badge"/></a>
 
-Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Development, Game Development, Web Automation, Functional Programming, Computer Graphics, and Emulation. 
+Hi, I'm Poom. I'm a passionate Software Engineer who believes that making software should be fun and learn.
 
 ## Skill 
 

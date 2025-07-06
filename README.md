@@ -12,6 +12,7 @@ Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Develop
   - Python
   - Java
   - Rust (In Learning)
+  - C++ (In Learning)
   - Haskell (In Learning)
 - **Framework / Library / Development Tool**
   - React / NextJS
@@ -31,6 +32,7 @@ Hi, I'm Poom. I'm a passionate Software Engineer who's interested in Web Develop
   - Functional Programming
   - Web Automation
   - Computer Graphics
+  - Emulation (In Learning)
 
 ## Contact 
 - [Email](mailto:poomyimyuean@gmail.com)

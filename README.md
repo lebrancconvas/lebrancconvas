@@ -5,8 +5,8 @@
 Hi, I'm Poom (He/him). I'm a passionate Software Engineer from Thailand who believes that making software should be fun and learn.
 
 ## Projects
-- (WIP) [From Code to Category Theory](https://github.com/lebrancconvas/From-Code-to-Category-Theory): Mapping the concept between Functional Programming to Category Theory by translating TypeScript (or any language) into Category of Type (under the diagram abstraction based on Category Theory).
-- (WIP) [LoxLax](https://github.com/lebrancconvas/LoxLax): The Variant Programming Language of Lox (The Programming Language from "Crafting Interpreters" book) powered by TypeScript + Bun.
+- (WIP) [From Code to Category Theory](https://github.com/lebrancconvas/From-Code-to-Category-Theory): Mapping the concept between [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) to [Category Theory](https://en.wikipedia.org/wiki/Category_theory) by translating TypeScript (or any language) into Category of Type (under the diagram abstraction based on Category Theory).
+- (WIP) [LoxLax](https://github.com/lebrancconvas/LoxLax): The Variant Programming Language of Lox (The Programming Language from "[Crafting Interpreters](https://craftinginterpreters.com/contents.html)" book) powered by TypeScript + Bun.
 - (WIP) [GeminaBoy (TypeScript)](https://github.com/lebrancconvas/GeminaBoy-Prototype): Web-Based Game Boy / Game Boy Color Emulator powerby React + TypeScript + Bun.
 
 ## Skills
@@ -44,8 +44,8 @@ Hi, I'm Poom (He/him). I'm a passionate Software Engineer from Thailand who beli
   - Emulation (In Learning)
 
 ## Other Work
-- [ArtStation (Art)](https://www.artstation.com/poomyimyuean)
-- [Soundcloud (Music)](https://soundcloud.com/poomkun-scarlet)
+- [ArtStation](https://www.artstation.com/poomyimyuean): Art Projects.
+- [Soundcloud](https://soundcloud.com/poomkun-scarlet/tracks): Music Projects.
 
 ## Contact 
 - [Email](mailto:poomyimyuean@gmail.com)

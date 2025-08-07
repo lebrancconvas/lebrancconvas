@@ -43,6 +43,10 @@ Hi, I'm Poom (He/him). I'm a passionate Software Engineer from Thailand who beli
   - Computer Graphics
   - Emulation (In Learning)
 
+## Other Work
+- [ArtStation (Art)](https://www.artstation.com/poomyimyuean)
+- [Soundcloud (Music)](https://soundcloud.com/poomkun-scarlet)
+
 ## Contact 
 - [Email](mailto:poomyimyuean@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/poom-yimyuean)

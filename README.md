@@ -15,7 +15,7 @@ Hi, I'm Poom (He/him). I'm a passionate Software Engineer from Thailand who beli
 - **<Programming_Language> Adventure**: Exploring any interesting concepts by programming using various Programming languages.
   - [TypeScript Adventure](https://github.com/LebrancWorkshop/TypeScript-Adventure)
   - [Rust Adventure](https://github.com/LebrancWorkshop/Rust-Adventure)
-- Topic Learning: Exploring the interesting topics related to Computer Science, Mathematics, STEM stuff.
+- **Topic Learning**: Exploring the interesting topics related to Computer Science, Mathematics, STEM stuff.
   - [Functional Programming](https://github.com/LebrancWorkshop/Lebranc-Learn-Functional-Programming): Learning about **Functional Programming** by its concept (with related Math and CS topics) and implementation using Functional Languages.
   - [Computer Graphics](https://github.com/LebrancWorkshop/Lebranc-Learn-Computer-Graphics): Learning about **Computer Graphics** and how visual is processed in Digital / Computer scope by learning its concept (with related Math and CS topics) and implementation. 
 

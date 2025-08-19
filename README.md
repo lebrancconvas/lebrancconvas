@@ -5,9 +5,16 @@
 Hi, I'm Poom (He/him). I'm a passionate Software Engineer from Thailand who believes that making software should be fun and learn.
 
 ## Projects
+
+### Side-Projects
 - (WIP) [From Code to Category Theory](https://github.com/lebrancconvas/From-Code-to-Category-Theory): Mapping the concept between [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) to [Category Theory](https://en.wikipedia.org/wiki/Category_theory) by translating TypeScript (or any language) into Category of Type (under the diagram abstraction based on Category Theory).
 - (WIP) [LoxLax](https://github.com/lebrancconvas/LoxLax): The Variant Programming Language of Lox (The Programming Language from "[Crafting Interpreters](https://craftinginterpreters.com/contents.html)" book) powered by TypeScript + Bun.
 - (WIP) [GeminaBoy (TypeScript)](https://github.com/lebrancconvas/GeminaBoy-Prototype): Web-Based Game Boy / Game Boy Color Emulator powerby React + TypeScript + Bun.
+
+### Learning-Projects
+- **<Programming_Language> Adventure**: Exploring any interesting concepts by programming using various Programming languages.
+  - [TypeScript Adventure](https://github.com/LebrancWorkshop/TypeScript-Adventure)
+  - [Rust Adventure](https://github.com/LebrancWorkshop/Rust-Adventure)
 
 ## Skills
 
